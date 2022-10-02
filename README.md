@@ -7,7 +7,7 @@ From the [SkillFactory Data Scirnce cource](http://skillfactory.ru/data-scientis
 * [Проект 0. Игра: Угадай число за меньше чем 20 попыток](https://github.com/IliaMishin/sf_data_science_1/tree/main/project_0)
 #Проет 0. Угадай число (меньше, чем 20 попыток)
 ##
-[1. Описание проекта] (https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Описание-проекта) 
 [2. Какой кейс решаем?](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Этапы-работы-над-проектом)
