@@ -17,7 +17,7 @@ From the [SkillFactory Data Scirnce cource](http://skillfactory.ru/data-scientis
 ### Описание проекта
 Угадать загаданное число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению]([http://github.com/alex-](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за меньше чем 20 попыток
@@ -37,7 +37,7 @@ From the [SkillFactory Data Scirnce cource](http://skillfactory.ru/data-scientis
 ### Краткая информация о данных
  По умолчанию рандомно загадываемое число компьютером в диапазоне 1-100.
  
-:arrow_up:[к оглавлению]([http://github.com/alex-](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/IliaMishin/sf_data_science_1/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 добавление в шаблон переменной end_1, в случае, когда predict_number больше или меньше number, то вычислиятся модуль разницы между ними, что и является переменной sub_1, затем  predict_number  складывается с sub_1 и получается число end_1, которое равно number 
